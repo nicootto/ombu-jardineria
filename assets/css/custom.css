@@ -1,0 +1,20 @@
+.icon.minor {
+	background: #272833;
+	border-radius: 100%;
+	cursor: default;
+	display: inline-block;
+	height: 3em;
+	line-height: 3em;
+	text-align: center;
+	width: 3em;
+}
+
+.v-center {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.contacto a{
+	color: white;
+}
